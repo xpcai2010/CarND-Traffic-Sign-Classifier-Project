@@ -35,7 +35,7 @@ The goals / steps of this project are the following:
 [image14]: ./New_Images/DoubleCurve.png "new image 1"
 [image15]: ./New_Images/german-road-signs-slippery.png "new image 2"
 [image16]: ./New_Images/pedestrian.png "new image 3"
-[image17]: ./New_Images/roadwork.PNG "new image 4"
+[image17]: ./New_Images/roadwork.png "new image 4"
 [image18]: ./New_Images/wildAnimalCrossing.png "new image 5"
 [image19]: ./summary/training_accuracy.JPG "mode accuracy"
 [image20]: ./summary/TestImagePrediction.JPG "test image prediction"
